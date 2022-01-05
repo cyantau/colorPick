@@ -1,0 +1,6 @@
+#.gitignore
+.vs/
+x64/
+instant-eyedropper/.vs/
+instant-eyedropper/output/
+instant-eyedropper/x64/
